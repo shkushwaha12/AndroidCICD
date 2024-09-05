@@ -4,7 +4,6 @@ on:
     branches : [ master ]
   push :
     branches : [ master ]
-
 job:
   build:
     runs-on : macOS-latest
